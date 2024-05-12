@@ -1,0 +1,23 @@
+div,p{
+    color: white;
+}
+
+div{
+    background-color: red;
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+p,button{
+    font-size: 18px;
+}
+
+p{
+    background-color: green;
+    
+}
+
+button{
+    background-color: orange;
+}
