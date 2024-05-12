@@ -1,0 +1,20 @@
+.simple{
+    background-color: rgb(245, 165, 165);
+    font-family: Verdana,"DejaVu Sans", sans-serif;
+
+}
+
+#n2{
+    font-size: 36px;
+    color: rgb(8, 8, 221);
+}
+
+.cool{
+    font-size: 24px;
+}
+
+#n4{
+    background-color: rgb(153, 245, 153);
+    font-size: 24px;
+    font-weight: bold;
+}
